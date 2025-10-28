@@ -1,7 +1,7 @@
 # Steps
 1. Wire up the leds to the arduino  
 ![Arduino Uno Wiring Diagram](images/arduino_uno_neopixel_wiring_diagram.png)
-![Arduino Micro Wiring Diagram](images/arduino_micro_neopixel_wiring_diagram.png)  
+![Arduino Nano Wiring Diagram](images/arduino_nano_neopixel_wiring_diagram.png)  
   
 2. Install the Adafruit Neopixel Library
     1. Click the library icon in the sidebar  
